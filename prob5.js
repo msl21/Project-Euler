@@ -36,4 +36,4 @@ while (smallestNum <= Number.MAX_SAFE_INTEGER) {
 }
 }
 
-  console.log(smallestMult(20));
+  console.log(`Smallest positive number that is evenly divisible by all of the numbers from 1 to 20 : ${smallestMult(20)}`);
